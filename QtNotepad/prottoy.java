@@ -17,7 +17,7 @@ String getName() {
 	return this.name;
 }
 String getDept() {
-	return dept;
+	return this.dept;
 }
 void setID(String ID) {
 	this.ID = ID;
