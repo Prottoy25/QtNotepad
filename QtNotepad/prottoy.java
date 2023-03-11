@@ -14,7 +14,7 @@ String getID() {
 	return ID;
 }
 String getName() {
-	return name;
+	return this.name;
 }
 String getDept() {
 	return dept;
