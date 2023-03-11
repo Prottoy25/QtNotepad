@@ -11,7 +11,7 @@ public:
 	}
 }
 String getID() {
-	return ID;
+	return this.ID;
 }
 String getName() {
 	return name;
